@@ -43,7 +43,7 @@ RUN apk --no-cache -U add \
              wget && \
 #
 # Setup ConPot
-    git clone https://github.com/mushorg/conpot /opt/conpot && \
+    git clone https://github.com/unknownhad/cowrie /opt/conpot && \
     cd /opt/conpot/ && \
     git checkout b3740505fd26d82473c0d7be405b372fa0f82575 && \
     #git checkout 1c2382ea290b611fdc6a0a5f9572c7504bcb616e && \
