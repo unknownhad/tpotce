@@ -30,7 +30,7 @@ services:
 # Cowrie service
   cowrie:
     build: cowrie/.
-    image: "dtagdevsec/cowrie:2204"
+#    image: "dtagdevsec/cowrie:2204"
 
 # Ddospot service
   ddospot:
