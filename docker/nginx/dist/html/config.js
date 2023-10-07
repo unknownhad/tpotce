@@ -33,6 +33,10 @@ const CONFIG = {
   lists: {
     firstList: [
       {
+        name: 'Attack Map',
+        link: '/map/',
+      },
+      {
         name: 'Cockpit',
         link: '/cockpit.html',
       },
@@ -55,16 +59,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Attack Map',
-        link: '/map/',
-      },
-      {
         name: 'SecurityMeter',
         link: 'https://sicherheitstacho.eu',
       },
       {
         name: 'T-Pot @ GitHub',
-        link: 'https://github.com/dtag-dev-sec/tpotce/',
+        link: 'https://github.com/telekom-security/tpotce/',
       },
       {
         name: 'T-Pot ReadMe',
